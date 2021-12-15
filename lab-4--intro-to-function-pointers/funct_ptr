@@ -1,0 +1,4 @@
+gcc -Wall -std=c99 -Werror -pedantic -g task2/task2.c -o task2/func_ptr
+gcc -Wall -std=c99 -Werror -pedantic -g task2/task2.c -o task2/func_ptr
+gcc -Wall -std=c99 -Werror -pedantic -g task2/task2.c -o task2/func_ptr
+gcc -Wall -std=c99 -Werror -pedantic -g task2/task2.c -o task2/func_ptr
